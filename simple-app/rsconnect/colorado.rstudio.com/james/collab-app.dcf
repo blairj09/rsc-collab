@@ -1,0 +1,12 @@
+name: collab-app
+title: collab-app
+username: james
+account: james
+server: colorado.rstudio.com
+hostUrl: https://colorado.rstudio.com/rsc/__api__
+appId: 1912
+bundleId: 24366
+url: https://colorado.rstudio.com:443/rsc/content/1912/
+when: 1546532551.21854
+asMultiple: FALSE
+asStatic: FALSE
